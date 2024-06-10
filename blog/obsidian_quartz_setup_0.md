@@ -16,6 +16,8 @@ draft: true
 
 ## 筆記軟體: Obsidian
 
+雖然稱不上是很會做筆記，但在學生時代自詡是個滿愛做筆記的人，
+
 ## 部落格: Quartz + GitHub Pages
 
 Obsidian 本身其實也有[訂閱制的 publish 服務](https://obsidian.md/publish)，但 $8-10/month 的價格還是讓我稍微敬而遠之 (我就客家🤑)，加上 publish 出來的網站外觀有點陽春 (X) 不符我的審美 (O) ([reference site](https://ihower.tw/notes/Welcome))，過去好像也沒有支援太多客製化的選項 (現在好像有[CSS 支援](https://help.obsidian.md/Obsidian+Publish/Customize+your+site)了而且[範例部落格](https://integralguide.com/) 都好酷！)，

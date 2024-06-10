@@ -1,13 +1,16 @@
 ---
-title: Just Read the Docs 🚀
+title: __dict__ 📖
+date: 2024-06-08
 ---
+
+## 關於我
+
+Hi 我是 Muti！
 
 ## 關於我
 
 Hi~ 我是 Muti! 恭喜你發現ㄌ Muti 的小天地 👀👀👀 以下是一點小小ㄉ關於我😇:
 
-- 小時候念機械，喜歡看 SpaceX 射火箭 🚀💥，很愛他們剪的[ㄎㄧㄤㄎㄧㄤ影片](https://youtu.be/bvim4rsNHkQ?si=9Hxd0oAAdVJW3eye)和[幫降落船亂取名字](https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship)。
-    - 雖然 *Of Course I Still Love You* 比較可愛但為了跟程式有關只好拿 *Just Read the Instructions* 來用。
 - 工作上寫 Python 🐍，做深度學習但討厭訓練 (?)，大部分的時間在啃 document 跟看著 code 發呆 🤤
 - 近期閒暇之餘開始學 Rust 🦀，體驗近年最受開發者歡迎程式語言的魅力 🥳
 - 沒有什麼 bug 是讀 doc 📖 無法解的，有的話就多讀幾遍！還有的話就...解完自己寫 document ...
