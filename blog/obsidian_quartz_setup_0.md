@@ -14,10 +14,13 @@ draft: true
 
 總之這是個已經失敗N次卻又重新燃起筆記魂的肥宅的筆記軟體/個人網站心得系列文，作為系列的第零篇 (軟體工程師很堅持要從零開始數)，不免俗地想要來談談自己做過的筆記大夢，還有在這個議題上所做過的一點小小研究。
 
-## 筆記軟體: Obsidian
+## Motivation
 
 雖然稱不上是很會做筆記，但在學生時代自詡是個滿愛做筆記的人，
 
+## 筆記軟體: Obsidian
+
+
 ## 部落格: Quartz + GitHub Pages
 
-Obsidian 本身其實也有[訂閱制的 publish 服務](https://obsidian.md/publish)，但 $8-10/month 的價格還是讓我稍微敬而遠之 (我就客家🤑)，加上 publish 出來的網站外觀有點陽春 (X) 不符我的審美 (O) ([reference site](https://ihower.tw/notes/Welcome))，過去好像也沒有支援太多客製化的選項 (現在好像有[CSS 支援](https://help.obsidian.md/Obsidian+Publish/Customize+your+site)了而且[範例部落格](https://integralguide.com/) 都好酷！)，
+Obsidian 本身其實也有[訂閱制的 publish 服務](https://obsidian.md/publish)，但 $8-10/month 的價格還是讓我稍微敬而遠之 (我就客家🤑)，加上 publish 出來的網站外觀有點陽春 (X) 不符我的審美 (O) ([reference site](https://ihower.tw/notes/Welcome))，過去好像也沒有支援太多客製化的選項 (現在好像有[CSS 支援](https://help.obsidian.md/Obsidian+Publish/Customize+your+site)了而且[範例部落格](https://integralguide.com/) 都好酷！只可惜我不會 html 跟 CSS 😔)，
