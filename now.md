@@ -27,4 +27,4 @@ draft: false
     - Maybe embedded rust?
     - Maybe Matter integration?
 - NixOS on Raspberry Pi
-- Learn Rust
+- Learn rust beyond leetcode
